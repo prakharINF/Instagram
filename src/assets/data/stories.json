@@ -1,0 +1,74 @@
+[
+    {
+        "id": 0,
+        "name": "Naveen Rana",
+        "image": "https://pbs.twimg.com/profile_images/1443884062528065536/011zseV4_400x400.jpg",
+        "watched": false,
+        "type": "image",
+        "url": ["https://www.infinitysoftsystems.com/wp-content/uploads/2021/01/3024061-scaled.jpg"]
+    },
+    {
+        "id": 1,
+        "name": "Akash Verma",
+        "image": "https://www.infinitysoftsystems.com/wp-content/uploads/2022/12/akash-300x300-1.jpg",
+        "watched": false,
+        "type": "image",
+        "url": ["https://lh3.googleusercontent.com/p/AF1QipPJfpSkvAkcfWTiVM3btdJCapBnCtu7qCWLOo_a=s1280-p-no-v1"]
+    },
+    {
+        "id": 2,
+        "name": "Sanket",
+        "image": "https://www.infinitysoftsystems.com/wp-content/uploads/2022/12/Sanket.jpg",
+        "watched": false,
+        "type": "image",
+        "url": ["https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYHUOOh9OAwRjAhfi2N7F5IxtHBKmKRKbmJ4fBfPw75dSb-_aMKjxtt-iZwHLhfBoU_wU&usqp=CAU"]
+    },
+    {
+        "id": 3,
+        "name": "Rajni",
+        "image": "https://www.infinitysoftsystems.com/wp-content/uploads/2022/12/0T8A4921-400-400px-300x300-1.jpg",
+        "watched": false,
+        "type": "image",
+        "url": ["https://mywallpapers.in/wp-content/uploads/2023/11/Best-AMOLED-Phone-Wallpaper-Download-Leaf-Environment-768x1536.jpg"]
+    },
+    {
+        "id": 4,
+        "name": "Amit Chauhan",
+        "image": "https://www.infinitysoftsystems.com/wp-content/uploads/2022/12/1-300x300-1.png",
+        "watched": false,
+        "type": "image",
+        "url": ["https://lh3.googleusercontent.com/-oTgRnyH6Gj0/Y7WZGHJucXI/AAAAAAAATDA/p2erzABkrFA6dRqXvmOMZCgtrXPXrc9DwCNcBGAsYHQ/s1600/1672845588923080-0.png"]
+    },
+    {
+        "id": 5,
+        "name": "Awadhesh",
+        "image": "https://www.infinitysoftsystems.com/wp-content/uploads/2022/12/Aaron.jpg",
+        "watched": false,
+        "type": "image",
+        "url": ["https://i.pinimg.com/736x/ff/cf/c4/ffcfc429357d09a1fd376de27af02b2b.jpg"]
+    },
+    {
+        "id": 6,
+        "name": "Vikas Munshi",
+        "image": "https://www.infinitysoftsystems.com/wp-content/uploads/2022/12/0T8A4921.jpg-400-400px.jpg",
+        "watched": false,
+        "type": "image",
+        "url": ["https://wallpapercave.com/wp/wp5437856.jpg"]
+    },
+    {
+        "id": 7,
+        "name": "No idea",
+        "image": "https://lh3.googleusercontent.com/p/AF1QipOnSWrR1IW-rKQ6jT-3_OiVAyHop7n9XMgxB3QK=w768-h768-n-o-v1",
+        "watched": false,
+        "type": "image",
+        "url": ["https://wallpapers.com/images/featured/beautiful-phone-3nqin4l713w5aiva.jpg"]
+    },
+    {
+        "id": 8,
+        "name": "Megha",
+        "image": "https://media.licdn.com/dms/image/D4D03AQHKlGEDaj7CtA/profile-displayphoto-shrink_800_800/0/1673342803046?e=2147483647&v=beta&t=pw9xz-k_41ROtpVhRPYKJZb_kH2wxZ5icpXOos0Gzpg",
+        "watched": false,
+        "type": "image",
+        "url": ["https://images.pexels.com/photos/1366919/pexels-photo-1366919.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"]
+    }
+]

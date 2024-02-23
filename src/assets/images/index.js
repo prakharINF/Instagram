@@ -1,0 +1,26 @@
+const images = {
+  me: require('./source/me.png'),
+  home_icon: require('./source/home.png'),
+  video_icon: require('./source/video.png'),
+  add_icon: require('./source/add.png'),
+  search_icon: require('./source/search.png'),
+  notification_icon: require('./source/notifications.png'),
+  chat_icon: require('./source/chats.png'),
+  more_icon: require('./source/more.png'),
+  share_icon: require('./source/share.png'),
+  bookmark_icon: require('./source/bookmark.png'),
+  comment_icon: require('./source/comment.png'),
+  back_icon: require('./source/back.png'),
+  more_horizontal_icon: require('./source/more_horizontal.png'),
+  edit_icon: require('./source/edit.png'),
+  stats_icon: require('./source/stats.png'),
+  camera_icon: require('./source/camera.png'),
+  menu_icon: require('./source/menu.png'),
+  chevron_down: require('./source/down-arrow.png'),
+  heart_filled: require('./source/heart_filled.png'),
+  phone_call_icon: require('./source/phone_call.png'),
+  flag_icon: require('./source/flag.png'),
+  video_call_icon: require('./source/video_call.png'),
+};
+
+export default images;
